@@ -1,4 +1,4 @@
-# Adgangsforhold (§ 48 - § 62) | BR18
+# Adgangsforhold (§ 48 - § 62)
 
 ## § 48 Adgangsforhold
 

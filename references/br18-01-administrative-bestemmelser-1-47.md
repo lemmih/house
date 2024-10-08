@@ -1,4 +1,4 @@
-# Administrative bestemmelser (§ 1 - § 47) | BR18
+# Administrative bestemmelser (§ 1 - § 47)
 
 ## § 1 - § 3 Anvendelsesområde
 
