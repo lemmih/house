@@ -6,7 +6,7 @@
 
 Bygningsreglementet gælder for al bebyggelse, medmindre andet følger af §§ 4-6.
 
-#### § 2
+### § 2
 
 Bygningsreglementet finder anvendelse ved følgende typer af byggearbejder:
 
