@@ -22,7 +22,7 @@ Bygningsreglementet finder anvendelse ved følgende typer af byggearbejder:
 
 6. Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen.
 
-#### § 3
+### § 3
 
 Det er kommunalbestyrelsen, der er bygningsmyndighed, og som træffer afgørelse efter bygningsreglementet.
 
@@ -32,78 +32,77 @@ Det er kommunalbestyrelsen, der er bygningsmyndighed, og som træffer afgørelse
 
 Bygningsreglementet gælder ikke for:
 
-1. Broer, tunneler og andre anlæg til trafikale formål, som udføres af eller godkendes af vej-, jernbane- eller andre myndigheder eller selskaber, der ved lov er ansvarlige for byggearbejdet, samt midlertidige konstruktioner og anlæg, der er nødvendige for disse byggearbejders udførelse.
+1. Broer, tunneler og andre anlæg til trafikale formål, som udføres af eller godkendes af vej-, jernbane- eller andre myndigheder eller selskaber, der ved lov er ansvarlige for byggearbejdet, samt midlertidige konstruktioner og anlæg, der er nødvendige for disse byggearbejders udførelse.
 
-2. Master til elforsyningsanlæg, almindelige master til elinstallationer, herunder vejbelysningsanlæg og master til offentlige elektriske baners køreledningsanlæg.
+2. Master til elforsyningsanlæg, almindelige master til elinstallationer, herunder vejbelysningsanlæg og master til offentlige elektriske baners køreledningsanlæg.
 
-3. Læskærme ved stoppesteder og lignende.
+3. Læskærme ved stoppesteder og lignende.
 
-4. Transformerstationer og kabelskabe for fremføring af elektricitet, måle- og trykregulatorstationer for fremføring af gas, pumpestationer og trykforøgeranlæg for vand-, afløbs- og fjernvarmesystemer samt radio- og blokhytter og relæhuse til offentlig trafik med et areal på højst 30 m² og en højde, der ikke overstiger 3,0 m.
+4. Transformerstationer og kabelskabe for fremføring af elektricitet, måle- og trykregulatorstationer for fremføring af gas, pumpestationer og trykforøgeranlæg for vand-, afløbs- og fjernvarmesystemer samt radio- og blokhytter og relæhuse til offentlig trafik med et areal på højst 30 m² og en højde, der ikke overstiger 3,0 m.
 
-5. Sireneenheder til varslingsanlæg, som udføres af eller godkendes af Beredskabsstyrelsen.
+5. Sireneenheder til varslingsanlæg, som udføres af eller godkendes af Beredskabsstyrelsen.
 
-6. Hegnsmure ved skel mod nabo, vej og sti på højst 1,8 m.
+6. Hegnsmure ved skel mod nabo, vej og sti på højst 1,8 m.
 
 7. Midlertidige udendørs camping- og salgsområder og lignende til højst 150 personer.
 
 8. Trådløse adgangspunkter med lille rækkevidde som er omfattet af lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. § 1, stk. 4, nr. 2.
 
-9. Indkvartering i medfør af beredskabslovens § 12, stk. 1, 2. pkt.
+9. Indkvartering i medfør af beredskabslovens § 12, stk. 1, 2. pkt.
 
-10. Midlertidig overnatning i hele eller dele af egen bolig.
+10. Midlertidig overnatning i hele eller dele af egen bolig.
 
-11. Private arrangementer i egen bolig.
+11. Private arrangementer i egen bolig.
 
 ### § 5
 
 Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse:
 
-1) Opførelse af og tilbygninger til garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når bygningerne tilsammen har et areal på højst 50 m², placeres på terræn og udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
+1. Opførelse af og tilbygninger til garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når bygningerne tilsammen har et areal på højst 50 m², placeres på terræn og udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-2) Ombygninger af garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når ombygningerne udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
+2. Ombygninger af garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når ombygningerne udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-3) Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet og skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.  
+3. Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet og skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.  
   
-4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
+4. Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
 
-5) Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.  
+5. Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.  
   
-6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.  
+6. Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.  
   
-7) Opførelse af og om- og tilbygninger til campinghytter, mobilehomes og lignende, der er omfattet af campingreglementet.  
+7. Opførelse af og om- og tilbygninger til campinghytter, mobilehomes og lignende, der er omfattet af campingreglementet.  
   
-8) Opførelse af og om- og tilbygninger til kolonihavehuse, der er tilladt, og hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed.  
+8. Opførelse af og om- og tilbygninger til kolonihavehuse, der er tilladt, og hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed.  
   
-9) Opførelse af og om- og tilbygninger til teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m².  
+9. Opførelse af og om- og tilbygninger til teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m².  
   
-10) Udendørs anlæg til opbevaring af husdyrgødning, korn og foder samt tørringsanlæg for korn, frø og andre afgrøder.
+10. Udendørs anlæg til opbevaring af husdyrgødning, korn og foder samt tørringsanlæg for korn, frø og andre afgrøder.
 
+11. Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.  
   
-11) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.  
+12. Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.  
   
-12) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.  
+13. Konstruktioner og anlæg, som indeholder brugerbetjente funktioner, såsom IT-standere, betalings- og selvbetjeningsautomater og lignende publikumsrettede servicefunktioner.  
   
-13) Konstruktioner og anlæg, som indeholder brugerbetjente funktioner, såsom IT-standere, betalings- og selvbetjeningsautomater og lignende publikumsrettede servicefunktioner.  
-  
-14) Anlæg med en lagerkapacitet af F-gas i tanke på indtil 1.200 gasoplagsenheder.
+14. Anlæg med en lagerkapacitet af F-gas i tanke på indtil 1.200 gasoplagsenheder.
 
-15) Færdigproducerede sanitetsbygninger med et areal på højst 25 m².
+15. Færdigproducerede sanitetsbygninger med et areal på højst 25 m².
 
-16) Opførelse, til- og ombygning af én primitiv mindre bygning til lejlighedsvis overnatning pr. ejendom, f.eks. shelter og lignende, som opføres i tilknytning til fritliggende enfamilieshuse, tofamiliehuse med vandret lejlighedsskel, dobbelthuse med lodret lejlighedsskel, rækkehuse og sommerhuse. Bygningen skal opfylde følgende betingelser:
+16. Opførelse, til- og ombygning af én primitiv mindre bygning til lejlighedsvis overnatning pr. ejendom, f.eks. shelter og lignende, som opføres i tilknytning til fritliggende enfamilieshuse, tofamiliehuse med vandret lejlighedsskel, dobbelthuse med lodret lejlighedsskel, rækkehuse og sommerhuse. Bygningen skal opfylde følgende betingelser:
 
-a) Bygningen skal udføres i overensstemmelse med de præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
+    1. Bygningen skal udføres i overensstemmelse med de præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-b) Bygningen er ikke opvarmet.
+    2. Bygningen er ikke opvarmet.
 
-c) Der er ikke installationer i bygningen, f.eks. toilet, vand eller varme.
+    3. Der er ikke installationer i bygningen, f.eks. toilet, vand eller varme.
 
-d) Der er en eksisterende godkendt boligenhed på grunden.
+    4. Der er en eksisterende godkendt boligenhed på grunden.
 
-e) Bygningen anvendes kun til privat brug.
+    5. Bygningen anvendes kun til privat brug.
 
-f) Bygningen er højst i 1 etage og ikke hævet mere end 0,3 m over terræn.
+    6. Bygningen er højst i 1 etage og ikke hævet mere end 0,3 m over terræn.
 
-g) Bygningen er højst 20 m2.
+    7. Bygningen er højst 20 m2.
 
  _Stk. 2._ Såfremt der skal foretages en helhedsvurdering efter kapitel 8 for byggearbejder omfattet af stk. 1, skal der søges om byggetilladelse efter § 10.
 
@@ -113,62 +112,62 @@ g) Bygningen er højst 20 m2.
 
 Følgende typer af bebyggelse er helt eller delvist undtaget fra overholdelse af reglerne i denne bekendtgørelse:
 
-1) Garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende bygninger samt teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m² kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
+1. Garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende bygninger samt teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m² kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
 
-2) Jordbrugserhvervets avls- og driftsbygninger samt væksthuse er omfattet af følgende krav i afsnit II:
+2. Jordbrugserhvervets avls- og driftsbygninger samt væksthuse er omfattet af følgende krav i afsnit II:
 
-a) Afløb i kapitel 4.
+    1. Afløb i kapitel 4.
 
-b) Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 – 90, §§ 99 – 103 og §§ 121 – 123.  
+    2. Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 – 90, §§ 99 – 103 og §§ 121 – 123.  
   
-c) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.  
-  
-d) Byggeret i §§ 184-186 og højde- og afstandskrav i §§ 191 og 194.  
-  
-e) Arbejdssteders indretning i §§ 221-227.  
-  
-f) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.  
-  
-g) Konstruktioner i kapitel 15.  
-  
-h) Vand i kapitel 21.
+    3. Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.  
+    
+    4. Byggeret i §§ 184-186 og højde- og afstandskrav i §§ 191 og 194.  
+    
+    5. Arbejdssteders indretning i §§ 221-227.  
+    
+    6. Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.  
+    
+    7. Konstruktioner i kapitel 15.  
+    
+    8. Vand i kapitel 21.
 
-i) Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i kapitel 13, om lydforhold i kapitel 17, om lys og udsyn i kapitel 18 samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i kapitel 19 og om ventilation i kapitel 22 overholdes.
+    9. Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i kapitel 13, om lydforhold i kapitel 17, om lys og udsyn i kapitel 18 samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i kapitel 19 og om ventilation i kapitel 22 overholdes.
 
-3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+3. Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
 
-4) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+4. Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
 
-5) Kolonihavehuse, hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed, er omfattet af følgende krav i denne bekendtgørelse:
+5. Kolonihavehuse, hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed, er omfattet af følgende krav i denne bekendtgørelse:
 
-a) Afløb i kapitel 4.
+    1. Afløb i kapitel 4.
 
-b) Røgalarmanlæg eller røgalarm, jf. § 93, stk. 1, nr. 7.  
-  
-c) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.  
-  
-d) Vand i kapitel 21.
+    2. Røgalarmanlæg eller røgalarm, jf. § 93, stk. 1, nr. 7.  
+    
+    3. Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.  
+    
+    4. Vand i kapitel 21.
 
-6)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 6 g.
+6. Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 6 g.
 
-7) Primitiv mindre bygning til lejlighedsvis overnatning opført efter § 5, stk. 1, nr. 16, er omfattet af følgende krav i afsnit II i det omfang det er relevant for byggeriet:
+7. Primitiv mindre bygning til lejlighedsvis overnatning opført efter § 5, stk. 1, nr. 16, er omfattet af følgende krav i afsnit II i det omfang det er relevant for byggeriet:
 
-a) Afløb i kapitel 4.
+    1. Afløb i kapitel 4.
 
-b) Brandforhold i kapitel 5.
+    2. Brandforhold i kapitel 5.
 
-c) Byggeplads i kapitel 7.
+    3. Byggeplads i kapitel 7.
 
-d) Byggeret og helhedsvurdering i kapitel 8.
+    4. Byggeret og helhedsvurdering i kapitel 8.
 
-e) Konstruktionsforhold i kapitel 15, men kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
+    5. Konstruktionsforhold i kapitel 15, men kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
 
 ### § 6a
 
 Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles uden ansøgning om byggetilladelse uanset varighed:
 
-1) Transportable konstruktioner, der opsættes i tilknytning til en byggeplads og anvendes til brug for udførelsen af et byggearbejde, herunder byggepladsledelse, tilsynskontor og mødelokaler. Konstruktionerne må ikke anvendes til overnatning.  
-2) Transportable konstruktioner, der opsættes i tilknytning til en byggeplads og som anvendes til andre formål end selve udførelsen, herunder konstruktioner, hvori der udføres tegnestuearbejde, kontorarbejde eller lignende, der ikke er egentligt byggearbejde, og som anvendes som en fast arbejdsplads. Konstruktionerne må ikke anvendes til overnatning.
+1. Transportable konstruktioner, der opsættes i tilknytning til en byggeplads og anvendes til brug for udførelsen af et byggearbejde, herunder byggepladsledelse, tilsynskontor og mødelokaler. Konstruktionerne må ikke anvendes til overnatning.  
+2. Transportable konstruktioner, der opsættes i tilknytning til en byggeplads og som anvendes til andre formål end selve udførelsen, herunder konstruktioner, hvori der udføres tegnestuearbejde, kontorarbejde eller lignende, der ikke er egentligt byggearbejde, og som anvendes som en fast arbejdsplads. Konstruktionerne må ikke anvendes til overnatning.
 
  _Stk. 2_. Konstruktionerne nævnt i stk. 1, nr. 1, er omfattet af følgende krav i det omfang, de er relevante: 
 
@@ -178,11 +177,11 @@ Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles u
 
  _Stk. 3._ Konstruktionerne nævnt i stk. 1, nr. 2, er omfattet af følgende krav i det omfang, de er relevante:
 
-1) Brandforhold i kapitel 5.
+1) Brandforhold i kapitel 5.
 
 2) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.
 
-3) Energiforbrug i §§ 287-292.
+3) Energiforbrug i §§ 287-292.
 
 4) Konstruktioner i kapitel 15. Telte med et samlet areal  på højst 50 m2 er dog ikke omfattet af reglerne i kapitel 15.
 
@@ -224,7 +223,7 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 9) Gangbroer, der er over 1,0 m i højden, med eller uden færdsel under gangbroen, uanset om gangbroen er med eller uden overdækning.
 
-10) Alle overdækninger over gangbroer.
+10) Alle overdækninger over gangbroer.
 
 11) Tårne, storskærme, mobilantenner, højtalertårne, skillevægge og lignende selvstående konstruktioner, der udføres, placeres eller anvendes på en sådan måde, at der ved et svigt kan være risiko for væsentlig personskade.
 
@@ -234,13 +233,13 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 1) Byggeret i kapitel 8. Bestemmelserne i kapitel 8 gælder kun for konstruktioner, der opstilles med en varighed på over 6 uger.
 
-2) Adgangsforhold ved bygningen i §§ 51-54.
+2) Adgangsforhold ved bygningen i §§ 51-54.
 
-3) Værn i §§ 58-60.
+3) Værn i §§ 58-60.
 
 4) Konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m2 er ikke omfattet af reglerne i kapitel 15.
 
-5) Brandforhold i kapitel 5.
+5) Brandforhold i kapitel 5.
 
  _Stk. 4_. Stk. 2 omfatter også modulopbyggede konstruktioner, hvis udformning og størrelse medfører, at konstruktionen overstiger de i stk. 2 anførte grænser.
 
@@ -400,11 +399,11 @@ En ansøgning om byggetilladelse skal indeholde:
 
 Ansøgning om byggetilladelse til opstilling af en vindmølle samt byggearbejder herved skal indeholde:
 
-1) en tydelig beskrivelse af det arbejde, der udføres,  
+1) en tydelig beskrivelse af det arbejde, der udføres,  
   
-2) tegning med målestoksangivelse og beskrivelse, der viser vindmøllens beliggenhed på grunden, dens højde, længde og bredde, dens afstand til skel samt afstand til andre bebyggelser på grunden og  
+2) tegning med målestoksangivelse og beskrivelse, der viser vindmøllens beliggenhed på grunden, dens højde, længde og bredde, dens afstand til skel samt afstand til andre bebyggelser på grunden og  
   
-3) nødvendige tilladelser efter anden lovgivning.
+3) nødvendige tilladelser efter anden lovgivning.
 
 ### § 11 a
 
@@ -448,9 +447,9 @@ Ansøgning om dispensation fra bestemmelser i bygningsreglementet skal indgives 
 
 Kommunalbestyrelsen kan give en ejer midlertidig tilladelse til at råde over en nabogrund i følgende tilfælde:
 
-1) Når det er nødvendigt for at sikre omkringliggende grunde, bygninger og ledningsanlæg i forbindelse med et funderingsarbejde, en udgravning eller en terrænændring på egen grund.  
+1) Når det er nødvendigt for at sikre omkringliggende grunde, bygninger og ledningsanlæg i forbindelse med et funderingsarbejde, en udgravning eller en terrænændring på egen grund.  
   
-2) Når det er nødvendigt for, at en ejer kan udføre et bygge-, reparations- eller vedligeholdelsesarbejde på egen ejendom.
+2) Når det er nødvendigt for, at en ejer kan udføre et bygge-, reparations- eller vedligeholdelsesarbejde på egen ejendom.
 
  _Stk. 2._ Arbejde omfattet af stk. 1 skal varsles senest 14 dage før arbejdets påbegyndelse.
 
@@ -474,9 +473,9 @@ Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 sk
 
 For byggearbejder i de enkelte konstruktionsklasser gælder følgende:
 
-1)  For byggearbejder i konstruktionsklasse 2 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 2, konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 12, § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.  
+1)  For byggearbejder i konstruktionsklasse 2 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 2, konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 12, § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.  
   
-2)  For byggearbejder i konstruktionsklasse 3 og 4 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+2)  For byggearbejder i konstruktionsklasse 3 og 4 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
  _Stk. 2_. For byggearbejder i konstruktionsklasse 4 skal der tilknyttes én statiker, der er certificeret til at udføre tredjepartskontrol, jf. § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
@@ -512,11 +511,11 @@ Ved ansøgning om byggetilladelse til byggearbejder i brandklasse 2-4 skal der t
 
 For byggearbejder i de enkelte brandklasser gælder følgende:
 
-1) For byggearbejder i brandklasse 2 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 2, brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 19, § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+1) For byggearbejder i brandklasse 2 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 2, brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 19, § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-2) For byggearbejder i brandklasse 3 og 4 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. 
+2) For byggearbejder i brandklasse 3 og 4 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. 
 
-3) For byggearbejder i brandklasse 2 med fravigelser af de præ-accepterede løsninger jf. § 493, stk. 1, nr. 2 og bilag 4, afsnit 2 skal der tillige medvirke en brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+3) For byggearbejder i brandklasse 2 med fravigelser af de præ-accepterede løsninger jf. § 493, stk. 1, nr. 2 og bilag 4, afsnit 2 skal der tillige medvirke en brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
  _Stk. 2._ For byggearbejder i brandklasse 4 skal der tillige tilknyttes én brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. Udarbejdelse eller ændring af planer, jf. § 6 h, stk. 1, nr. 2, for byggeri i brandklasse 4 er undtaget herfor, såfremt der ikke ændres på forudsætningerne for de brandmæssige forhold.
 
@@ -596,23 +595,23 @@ Hvis der ikke er tilknyttet en certificeret statiker for transportable konstrukt
 
  _Stk. 2._ Dokumentationen for, at de bærende konstruktioner overholder bestemmelserne i kapitel 15, skal udarbejdes og kontrolleres i overensstemmelse med principperne i SBi-anvisning 223, Dokumentation af bærende konstruktioner. Afhængigt af den transportable konstruktion skal den statiske dokumentation indeholde følgende:
 
-1) Konstruktionsdokumentation:
+1) Konstruktionsdokumentation:
 
-a) A1. Projektgrundlag.  
-  
-b) A2. Statiske beregninger.
+    a) A1. Projektgrundlag.  
+    
+    b) A2. Statiske beregninger.
 
-c) A3. Konstruktionstegninger og modeller.
+    c) A3. Konstruktionstegninger og modeller.
 
-d) A4. Konstruktionsændringer.
+    d) A4. Konstruktionsændringer.
 
-2) Projektdokumentation:
+2) Projektdokumentation:
 
-a) B1. Statisk projekteringsrapport.
+    a) B1. Statisk projekteringsrapport.
 
-b) B2. Statisk kontrolrapport.
+    b) B2. Statisk kontrolrapport.
 
-c) B3. Statisk tilsynsrapport.
+    c) B3. Statisk tilsynsrapport.
 
  _Stk. 3._ For midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 1, og som er i høj konsekvensklasse (CC3), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2019, skal der tilknyttes en anerkendt statiker, der har anerkendelse efter reglerne i kapitel 35, og som skal sikre overholdelse af kapitel 15.
 
@@ -624,17 +623,17 @@ Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner,
 
  _Stk. 2._ Den statiske dokumentation skal bilægges følgende dokumentation udfærdiget af en anerkendte statiker:
 
-1) Oplysning om og dokumentation for indplacering i konsekvensklasse
+1) Oplysning om og dokumentation for indplacering i konsekvensklasse
 
-2) Erklæring, hvori det angives  
+2) Erklæring, hvori det angives  
 
-a) at dokumentationen for bærende konstruktioner, er fremsendt,
+    a) at dokumentationen for bærende konstruktioner, er fremsendt,
 
-b) at der er valgt de korrekte konsekvensklasser, og at dokumentationen herfor er retvisende,
+    b) at der er valgt de korrekte konsekvensklasser, og at dokumentationen herfor er retvisende,
 
-c) at dokumentationen godtgør, at byggeriet overholder bygningsreglementets krav til bærende konstruktioner, jf. kapitel 15 og  
-  
-d) redegørelse for den anerkendte statikers virke.
+    c) at dokumentationen godtgør, at byggeriet overholder bygningsreglementets krav til bærende konstruktioner, jf. kapitel 15 og  
+    
+    d) redegørelse for den anerkendte statikers virke.
 
  _Stk. 3_. Erklæringen udarbejdes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
 
@@ -646,9 +645,9 @@ For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsek
 
  _Stk. 3._ I erklæringen angives
 
-1) at den anerkendte statikers angivelse i erklæringen, jf. § 30 b, stk. 2, nr.2, litra b-d, er retvisende og  
+1) at den anerkendte statikers angivelse i erklæringen, jf. § 30 b, stk. 2, nr.2, litra b-d, er retvisende og  
   
-2) redegørelse for den i stk. 1 anførte anerkendte statikers virke som tredjepartskontrollant.
+2) redegørelse for den i stk. 1 anførte anerkendte statikers virke som tredjepartskontrollant.
 
  _Stk. 4._ Erklæringen udformes og underskrives personligt af tredjepartskontrollanten, jf. kapitel 35.
 
@@ -662,21 +661,21 @@ Hvis der ikke er tilknyttet en certificeret rådgiver for transportable konstruk
 
 Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt forsamlingslokaler, idrætshaller o.lign., hvor der ikke er tilknyttet en certificeret brandrådgiver, skal der indsendes dokumentation for, at bestemmelserne i kapitel 5 overholdes. Afhængigt af den transportable konstruktion skal dokumentationen indeholde følgende:
 
-1) Brandstrategirapport.  
+1) Brandstrategirapport.  
   
-2) Tegningsmateriale, som kan omfatte pladsfordelingsplaner.  
+2) Tegningsmateriale, som kan omfatte pladsfordelingsplaner.  
   
-3) Beskrivelser, der viser de enkelte dele af de transportable konstruktioners brandtekniske egenskaber, brandtekniske installationer, flugtveje og rednings- og indsatsforhold.  
+3) Beskrivelser, der viser de enkelte dele af de transportable konstruktioners brandtekniske egenskaber, brandtekniske installationer, flugtveje og rednings- og indsatsforhold.  
   
-4) Brandtekniske beregninger, hvor der anvendes brandteknisk dimensionering som en del af dokumentationen.  
+4) Brandtekniske beregninger, hvor der anvendes brandteknisk dimensionering som en del af dokumentationen.  
   
-5) Redegørelse for drift af den transportable konstruktion.  
+5) Redegørelse for drift af den transportable konstruktion.  
   
-6) Dokumentation for de brandtekniske egenskaber af de enkelte dele af de transportable konstruktioner og installationer samt en beskrivelse af, hvordan eventuelle brandtekniske installationer og dele af de transportable konstruktioner løbende kontrolleres og vedligeholdes.  
+6) Dokumentation for de brandtekniske egenskaber af de enkelte dele af de transportable konstruktioner og installationer samt en beskrivelse af, hvordan eventuelle brandtekniske installationer og dele af de transportable konstruktioner løbende kontrolleres og vedligeholdes.  
   
-7) Funktionsafprøvninger for de brandtekniske installationer.
+7) Funktionsafprøvninger for de brandtekniske installationer.
 
-8) Systemintegrationstest, hvor flere brandtekniske installationer fungerer som et system.
+8) Systemintegrationstest, hvor flere brandtekniske installationer fungerer som et system.
 
  _Stk. 2._ Kommunalbestyrelsen kan indhente en sagkyndig erklæring vedrørende den brandtekniske dokumentation, jf. stk. 1. Udgifterne hertil afholdes af ansøger.
 
@@ -757,15 +756,15 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
  _Stk. 2._ Ved færdigmelding skal følgende fremsendes:
 
-1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A.
+1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A.
 
-2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
+2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
 
-3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
+3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
 
-4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes.
+4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes.
 
-5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
+5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
 
  _Stk. 3._ Bygningsejeren har pligt til at meddele forhold, som er af betydning for drift og ajourføring af BBR i overensstemmelse med bekendtgørelse om ajourføring af bygnings- og boligregistret.
 
