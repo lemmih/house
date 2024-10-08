@@ -1,10 +1,12 @@
 # Administrative bestemmelser (§ 1 - § 47) | BR18
 
-## § 1
+## § 1 - § 3 Anvendelsesområde
+
+### § 1
 
 Bygningsreglementet gælder for al bebyggelse, medmindre andet følger af §§ 4-6.
 
-## § 2
+#### § 2
 
 Bygningsreglementet finder anvendelse ved følgende typer af byggearbejder:
 
@@ -20,11 +22,13 @@ Bygningsreglementet finder anvendelse ved følgende typer af byggearbejder:
 
 6. Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen.
 
-## § 3
+#### § 3
 
 Det er kommunalbestyrelsen, der er bygningsmyndighed, og som træffer afgørelse efter bygningsreglementet.
 
-## § 4
+## § 4 - § 6 Begrænsninger i bygningsreglementets anvendelsesområde
+
+### § 4
 
 Bygningsreglementet gælder ikke for:
 
@@ -50,7 +54,7 @@ Bygningsreglementet gælder ikke for:
 
 11. Private arrangementer i egen bolig.
 
-## § 5
+### § 5
 
 Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse:
 
@@ -105,7 +109,7 @@ g) Bygningen er højst 20 m2.
 
  _Stk. 3._ Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning.
 
-## § 6
+### § 6
 
 Følgende typer af bebyggelse er helt eller delvist undtaget fra overholdelse af reglerne i denne bekendtgørelse:
 
@@ -159,7 +163,7 @@ d) Byggeret og helhedsvurdering i kapitel 8.
 
 e) Konstruktionsforhold i kapitel 15, men kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
 
-## § 6a
+### § 6a
 
 Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles uden ansøgning om byggetilladelse uanset varighed:
 
@@ -182,7 +186,7 @@ Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles u
 
 4) Konstruktioner i kapitel 15. Telte med et samlet areal  på højst 50 m2 er dog ikke omfattet af reglerne i kapitel 15.
 
-## § 6b
+### § 6b
 
 Følgende transportable konstruktioner skal overholde bygningsreglementet, men kan opføres uden ansøgning om byggetilladelse:
 
@@ -244,19 +248,19 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
  _Stk. 6_. Transportable konstruktioner, der ikke er omfattet af § 6 b, stk. 1, skal have byggetilladelse eller inspektionscertifikat, jf. bekendtgørelse om certificeringsordning for transportable konstruktioner anbragt et synligt sted på den transportable konstruktion. Hvor der er krav om en pladsfordelingsplan, skal denne anbringes på et tydeligt, let læseligt sted ved alle primære indgange.
 
-## § 6c
+### § 6c
 
 Raftekonstruktioner, der opstilles midlertidigt, er alene omfattet af byggeloven efter kommunalbestyrelsens konkrete vurdering, jf. byggelovens § 2, stk. 3. Raftekonstruktioner, der opstilles midlertidigt, er derfor ikke omfattet af § 6 b, stk. 1, eller § 6 b, stk. 3.  
 
-## § 6d
+### § 6d
 
 Transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, må ikke opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. § 7. Ved byggesagsbehandling af en certificeret konstruktion omfattet af § 6 b, stk. 2, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som er omfattet af § 6 a, stk. 1, nr. 1 og 2.
 
-## § 6e
+### § 6e
 
 For transportable konstruktioner, der anvendes af flere end 150 personer, skal meddelelse med oplysning om den transportable konstruktions indretning og brug, jf. §§ 156-158, sendes til kommunalbestyrelsen senest 4 uger før, konstruktionen tages i brug.
 
-## § 6f
+### § 6f
 
 Midlertidige udendørs campingområder til flere end 150 personer og midlertidige udendørs salgsområder og lignende til flere end 150 personer er i afsnit II alene omfattet af brandforhold i kapitel 5.
 
@@ -266,7 +270,7 @@ Midlertidige udendørs campingområder til flere end 150 personer og midlertidig
 
  _Stk. 4._ Hvis det i forbindelse med ansøgning om byggetilladelse vurderes, at der skal inddrages en certificeret brandrådgiver jf. § 493, stk. 3, nr. 1, kan ansøger vælge, at kommunalbestyrelsen skal foretage den tekniske byggesagsbehandling af brandforhold, jf. kapitel 5 i stedet for en certificeret rådgiver. Dokumentation for overholdelse af kapitel 5 skal være modtaget af kommunalbestyrelsen senest 4 uger før, at området tages i brug.
 
-## § 6g
+### § 6g
 
 Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, kan ske i sammenlagt højst 50 døgn inden for samme kalenderår. Overnatningen skal foregå i overensstemmelse med bestemmelserne i kapitel 5.
 
@@ -282,7 +286,7 @@ Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres t
 
  _Stk. 5._ Overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, og som ikke opfylder stk. 1 – 4, betragtes som en anvendelsesændring, hvortil der skal søges byggetilladelse, jf. § 10.
 
-## § 6h
+### § 6h
 
 Ved udarbejdelse eller ændring af pladsfordelingsplaner, indretningsplaner for flugtveje og inventaropstillingsplaner skal planen enten:
 
@@ -318,7 +322,7 @@ Ved udarbejdelse eller ændring af pladsfordelingsplaner, indretningsplaner for 
 
  _Stk. 5._ For byggeri eller bygningsafsnit, der er omfattet af §§ 147 og 153, skal dokumentationen, jf. stk. 1 og 2, indsendes til kommunalbestyrelsen.
 
-## § 6i
+### § 6i
 
 Kommunalbestyrelsen kan meddele byggetilladelse til afholdelse af midlertidige indendørsarrangementer i byggeri eller bygningsafsnit, som ikke er godkendt hertil, hvis det midlertidige indendørsarrangement omfatter højst samtidigt ophold af 1.000 personer. Der kan i et byggeri eller bygningsafsnit meddeles tilladelse til sådanne midlertidige arrangementer i højst 50 dage inden for samme kalenderår.
 
@@ -328,17 +332,19 @@ Kommunalbestyrelsen kan meddele byggetilladelse til afholdelse af midlertidige i
 
 2) Konstruktive forhold i kapitel 15, hvis anvendelsen af bygningen ændrer ved de bærende konstruktioners virkemåde. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
 
-## § 7
+## § 7 - § 15 Ansøgning om byggetilladelse
+
+### § 7
 
 Et byggearbejde må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre andet er bestemt i §§ 4 og 5.
 
  _Stk. 2._ Kommunalbestyrelsen kan beslutte, at der skal opkræves gebyr for behandling af ansøgninger om byggetilladelse, jf. § 39.
 
-## § 8
+### § 8
 
 Kommunalbestyrelsen kan afholde en forhåndsdialog med ansøger med henblik på at afklare rammerne for byggeprojektet og forhold til anden lovgivning.
 
-## § 9
+### § 9
 
 Ansøgning om byggetilladelse skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunalbestyrelsen stiller til rådighed, og skal signeres digitalt af ejeren. Ansøgninger, der ikke indgives ved den digitale løsning kan afvises af kommunalbestyrelsen, jf. dog stk. 3 og 4.
 
@@ -348,7 +354,7 @@ Ansøgning om byggetilladelse skal indgives til kommunalbestyrelsen ved anvendel
 
  _Stk. 4._ Kommunalbestyrelsen kan helt ekstraordinært ud over i de i stk. 3 nævnte tilfælde undlade at afvise en ansøgning, der ikke er indgivet ved den digitale løsning, hvis der ud fra en samlet økonomisk vurdering er klare fordele for kommunalbestyrelsen ved at modtage ansøgningen på anden måde end digitalt.
 
-## § 10
+### § 10
 
 En ansøgning om byggetilladelse skal indeholde:
 
@@ -390,7 +396,7 @@ En ansøgning om byggetilladelse skal indeholde:
 
  _Stk. 9_. En ansøgning skal udformes på dansk eller engelsk
 
-## § 11
+### § 11
 
 Ansøgning om byggetilladelse til opstilling af en vindmølle samt byggearbejder herved skal indeholde:
 
@@ -400,11 +406,11 @@ Ansøgning om byggetilladelse til opstilling af en vindmølle samt byggearbejder
   
 3) nødvendige tilladelser efter anden lovgivning.
 
-## § 11 a
+### § 11 a
 
 Ansøgning om byggetilladelse for anlæg med henblik på produktion af vedvarende energi er omfattet af regler vedr. tilrettelæggelse af tilladelsesprocessen og tidsfrister m.v. i bekendtgørelse om kontaktpunkt, VE-tilladelsesprocessen og områder til fremme af VE
 
-## § 11 b
+### § 11 b
 
 Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal, hvis det er relevant for byggearbejdet indeholde:
 
@@ -422,11 +428,11 @@ Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal,
 
  _Stk. 4_. Byggearbejder omfattet af §§ 6 f - 6 i er ikke omfattet af §§ 40, 43 og 46.
 
-## § 12
+### § 12
 
 Ved ansøgning om byggetilladelse til at give offentligheden adgang til en mine og lignende anlæg, skal der indsendes redegørelse for sagkyndige undersøgelser vedrørende undergrundens styrke- og stabilitetsforhold, som gennemføres.
 
-## § 13
+### § 13
 
 Ansøgning om dispensation fra bestemmelser i bygningsreglementet skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunalbestyrelsen stiller til rådighed, og skal signeres digitalt af ejeren. Kommunalbestyrelsen kan stille krav om, at ansøgning om dispensation eller om tilladelse til at bevare et ulovligt forhold signeres af ejeren personligt.
 
@@ -438,7 +444,7 @@ Ansøgning om dispensation fra bestemmelser i bygningsreglementet skal indgives 
 
  _Stk. 5._ For bygningsfredede bygninger og bygninger, som er en del af et fredet fortidsminde, kan der ske lempelser fra bestemmelserne i bygningsreglementet, såfremt kommunalbestyrelsen vurderer, at bestemmelserne er uforenelige med frednings- og bevaringsværdierne.
 
-## § 14
+### § 14
 
 Kommunalbestyrelsen kan give en ejer midlertidig tilladelse til at råde over en nabogrund i følgende tilfælde:
 
@@ -452,17 +458,19 @@ Kommunalbestyrelsen kan give en ejer midlertidig tilladelse til at råde over en
 
  _Stk. 4._ Hvis ny bebyggelse eller ændring eller fjernelse af eksisterende bebyggelse i skel mod nabo medfører, at naboen må ændre eller fjerne konstruktioner ved skellet, skal naboen have mulighed for at foretage det fornødne, inden byggearbejdet forhindrer det.
 
-## § 15
+### § 15
 
 Inden et byggearbejde, hvortil der er meddelt byggetilladelse, påbegyndes, skal der indsendes meddelelse herom til kommunalbestyrelsen.
 
-## § 16
+## § 16 - § 19 Anvendelse af certificerede statikere i konstruktionsklasse 2-4
+
+### § 16
 
 Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, der gennem sit virke, jf. kapitel 32 og 33, sikrer, at byggearbejdet er i overensstemmelse med kapitel 15 samt sikrer, at dokumentation herfor, jf. kapitel 28, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
 
  _Stk. 2._ Ansøgeren skal for de bærende konstruktioner sikre, at den statiske dokumentation er samlet og koordineret, så dokumentationen udgør et hele, jf. § 494, stk. 3.
 
-## § 17
+### § 17
 
 For byggearbejder i de enkelte konstruktionsklasser gælder følgende:
 
@@ -474,13 +482,13 @@ For byggearbejder i de enkelte konstruktionsklasser gælder følgende:
 
  _Stk. 3_. Når der tilknyttes en certificeret statiker med et certifikat med begrænset gyldighedsområde, skal byggearbejdet i sin helhed være omfattet af certifikatets gyldighedsområde.
 
-## § 18
+### § 18
 
 Ansøgeren udpeger den certificerede statiker. Oplysning til identifikation af den certificerede statiker, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 
  _Stk. 2._ For byggeri i konstruktionsklasse 4 udpeger ansøgeren ligeledes en statiker, der er certificeret til at udføre tredjepartskontrol. Oplysning til identifikation af statikeren, der er certificeret til at udføre tredjepartskontrol, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 
-## § 19
+### § 19
 
 Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 skal følgende dokumentation indsendes sammen med ansøgningen om byggetilladelse:
 
@@ -492,13 +500,15 @@ g, jf. § 498, stk. 1.
 
  _Stk. 2._ For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes starterklæring fra en statiker, der er certificeret til at udføre tredjepartskontrol, jf. § 498, stk. 2.
 
-## § 20
+## § 20 - § 23 Anvendelse af certificeret brandrådgiver i brandklasse 2-4
+
+### § 20
 
 Ved ansøgning om byggetilladelse til byggearbejder i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, der gennem sit virke, jf. kapitel 32 og 34, sikrer, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikrer, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
 
  _Stk. 2._ Ved udarbejdelse eller ændring af planer mv., jf. § 6 h, stk. 1, nr. 2, skal den tilknyttede certificerede brandrådgiver, gennem sit virke, jf. kapitel 32 og 34, sikre, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikre, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
 
-## § 21
+### § 21
 
 For byggearbejder i de enkelte brandklasser gælder følgende:
 
@@ -512,13 +522,13 @@ For byggearbejder i de enkelte brandklasser gælder følgende:
 
  _Stk. 3._ Når der tilknyttes en certificeret brandrådgiver med et certifikat med begrænset gyldighedsområde, skal byggearbejdet i sin helhed være omfattet af certifikatets gyldighedsområde.
 
-## § 22
+### § 22
 
 Ansøgeren udpeger den eller de certificerede brandrådgivere. Oplysning til identifikation af disse, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 
  _Stk. 2._ For byggeri i brandklasse 4 udpeger ansøgeren ligeledes en brandrådgiver, der er certificeret til at udføre tredjepartskontrol. Oplysning til identifikation af brandrådgiveren, der er certificeret til at udføre tredjepartskontrol, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 
-## § 23
+### § 23
 
 Ved ansøgning om byggetilladelse til byggearbejde i brandklasse 2-4 skal følgende dokumentation udfærdiges af den certificerede brandrådgiver og indsendes sammen med ansøgningen om byggetilladelse:
 
@@ -530,7 +540,11 @@ Ved ansøgning om byggetilladelse til byggearbejde i brandklasse 2-4 skal følge
 
  _Stk. 2._ For byggearbejde i brandklasse 4 skal der ligeledes indsendes starterklæring fra en brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 508, stk. 2.
 
-## § 28
+## § 24 - § 27 (Ophævet)
+
+## § 28 - § 29 Lovliggørelse af bærende konstruktioner og brandforhold
+
+### § 28
 
 Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4, skal tilknyttes certificeret statiker, jf. §§ 16-19 og ske i overensstemmelse med bilag 5. Lovliggørelse af bærende konstruktioner omfatter alene de bærende konstruktioner eller konstruktionsafsnit, der er ulovlige, samt andre dele af byggeriet, såfremt disses virkemåde og dokumentation påvirkes heraf.
 
@@ -543,7 +557,7 @@ Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4,
  _Stk. 5._ Når der anvendes anden materiel regulering, end den, der gælder på lovliggørelsestidspunktet, anses de detailbaserede løsninger for brandsikring af byggeri, som opfyldte kravene til brandsikring i denne regulering, for præ-accepterede løsninger, jf. Bygningsreglementets vejledning til kapitel 5 – Brand, ved indplacering i brandklasser.  
  _Stk. 6._ Hvis lovliggørelsen efter kommunalbestyrelsens vurdering består af en simpel fysisk udbedring, kan kommunalbestyrelsen beslutte, at stk. 1-5 ikke finder anvendelse, og selv foretage den byggetekniske sagsbehandling af lovliggørelsen.
 
-## § 29
+### § 29
 
 Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf. § 28, stk. 1 og 3, påbegyndes, skal ejeren indsende dokumentation i henhold til § 10 til kommunalbestyrelsen.
 
@@ -573,7 +587,10 @@ Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf
 
  _Stk. 9._ Hvis lovliggørelsen efter kommunalbestyrelsens vurdering består af en simpel fysisk udbedring, kan kommunalbestyrelsen beslutte, at stk. 1-8 ikke finder anvendelse, og selv foretage den byggetekniske sagsbehandling af lovliggørelsen.
 
-## § 30 a
+
+## § 30 - § 30c Byggesagsbehandling af transportable konstruktioner i konstruktionsklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+### § 30 a
 
 Hvis der ikke er tilknyttet en certificeret statiker for transportable konstruktioner i konstruktionsklasse 2-4, og de transportable konstruktioner opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, og konstruktionen ikke er certificeret, skal kommunalbestyrelsen foretage byggesagsbehandling af dokumentation af bærende konstruktioner, jf. kapitel 15.
 
@@ -601,7 +618,7 @@ c) B3. Statisk tilsynsrapport.
 
  _Stk. 4._ Ansøger udpeger den anerkendte statiker. Oplysning herom skal fremgå af ansøgningen om byggetilladelse.
 
-## § 30 b
+### § 30 b
 
 Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 3, skal der indsendes dokumentation for, at bestemmelserne i kapitel 15 overholdes.
 
@@ -621,7 +638,7 @@ d) redegørelse for den anerkendte statikers virke.
 
  _Stk. 3_. Erklæringen udarbejdes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
 
-## § 30 c
+### § 30 c
 
 For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2013, skal der ved ansøgning til byggetilladelse endvidere indsendes en erklæring fra en tredjepartskontrollant, der har anerkendelse efter reglerne i kapitel 35, og som hverken direkte eller indirekte må være økonomisk forbunden med den eller de organisationer, som har medvirket ved projekteringen af bygningen.
 
@@ -635,11 +652,13 @@ For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsek
 
  _Stk. 4._ Erklæringen udformes og underskrives personligt af tredjepartskontrollanten, jf. kapitel 35.
 
-## § 31 a
+##  § 31 - § 34 Byggesagsbehandling af transportable konstruktioner i brandklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+### § 31 a
 
 Hvis der ikke er tilknyttet en certificeret rådgiver for transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, skal kommunalbestyrelsen foretage byggesagsbehandling af brandforhold, jf. kapitel 5.
 
-## § 31 b
+### § 31 b
 
 Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt forsamlingslokaler, idrætshaller o.lign., hvor der ikke er tilknyttet en certificeret brandrådgiver, skal der indsendes dokumentation for, at bestemmelserne i kapitel 5 overholdes. Afhængigt af den transportable konstruktion skal dokumentationen indeholde følgende:
 
@@ -661,7 +680,21 @@ Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse
 
  _Stk. 2._ Kommunalbestyrelsen kan indhente en sagkyndig erklæring vedrørende den brandtekniske dokumentation, jf. stk. 1. Udgifterne hertil afholdes af ansøger.
 
-## § 35
+### § 32
+
+(Ophævet) 
+
+### § 33
+
+(Ophævet) 
+
+### § 34
+
+(Ophævet) 
+
+## § 35 - § 38 Byggetilladelse
+
+### § 35
 
 Meddelelse om byggetilladelse skal ske skriftligt til ansøger.
 
@@ -669,7 +702,7 @@ Meddelelse om byggetilladelse skal ske skriftligt til ansøger.
 
  _Stk. 3._ Krav i byggetilladelsen, der er fastsat i medfør af anden lovgivning, skal fremgå særskilt af tilladelsen.
 
-## § 36
+### § 36
 
 Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 1, § 10, stk. 2, nr. 1, § 11, § 11 b, § 18 og § 22, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
@@ -679,7 +712,7 @@ Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen 
 
  _Stk. 4._ Hvis det ansøgte byggeri er indplaceret i brandklasse 2-4 og byggeriet ikke er indsatstaktisk traditionelt, skal kommunalbestyrelsen fortage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 2, nr. 6 er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
-## § 37
+### § 37
 
 En byggetilladelse er bindende.
 
@@ -689,13 +722,16 @@ En byggetilladelse er bindende.
 
  _Stk. 4._ Kommunalbestyrelsen kan på ansøgers anmodning udpege en særlig sagkyndig vedrørende den tekniske dokumentation, såfremt dette er nødvendigt for kommunalbestyrelsens afgørelse om byggetilladelse. Udgifterne hertil afholdes af ansøgeren.
 
-## § 38
+### § 38
 
 Såfremt der ikke er foretaget en tilstrækkelig habitatvurdering, skal kommunalbestyrelsen, inden der meddeles byggetilladelse, vurdere, om planen eller projektet vil påvirke et habitatområde negativt.
 
  _Stk. 2._ Hvis der foreligger helt særlige og bydende nødvendige nationale hensyn til væsentlige samfundsinteresser, og hvor der ikke er andre alternativer, kan der, uanset stk. 1, meddeles byggetilladelse.
 
-## § 39
+
+## § 39 Byggesagsgebyr
+
+### § 39
 
 Kommunalbestyrelsen kan opkræve gebyr for behandlingen af en ansøgning om byggetilladelse. Gebyr kan også opkræves, hvor en ansøgning om byggetilladelse trækkes tilbage, hvor der meddeles afslag på ansøgningen samt ved kommunalbestyrelsens behandling af lovliggørelsessager og dispensations-ansøgninger.
 
@@ -713,7 +749,9 @@ Kommunalbestyrelsen kan opkræve gebyr for behandlingen af en ansøgning om bygg
 
  _Stk. 8._ Opkræves gebyret som et fast gebyr, jf. stk. 2, må gebyret ikke overstige det beløb, der er fastsat i bekendtgørelse om Trafik-, Bygge- og Boligstyrelsens gebyrer på byggeområdet. Betaling af det faste gebyr forfalder ved meddelelse om byggetilladelse. Kommunalbestyrelsen kan tilbageholde byggetilladelsen, indtil gebyret er betalt.
 
-## § 40
+## § 40 - § 46 Afslutning af byggesag
+
+### § 40
 
 Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
 
@@ -733,21 +771,19 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
  _Stk. 4_. Dokumentation, jf. stk. 2 skal udformes på dansk eller engelsk.
 
-  
-
-## § 41
+### § 41
 
 For byggearbejde omfattet af konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf.§ 499, stk. 1, der er udarbejdet af den certificerede statiker.
 
  _Stk. 2._ For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes en sluterklæring, jf. § 499, stk. 2, der er udarbejdet af den statiker, der er certificeret til at udføre tredjepartskontrol.
 
-## § 42
+### § 42
 
 For byggearbejde omfattet af brandklasse 2-4, jf. kapitel 27, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf. § 509, stk. 1, der er udarbejdet af den certificerede brandrådgiver.
 
  _Stk. 2._ For byggearbejde i brandklasse 4 skal der ligeledes indsendes en sluterklæring, jf. § 509, stk. 2, der er udarbejdet af den brandrådgiver, der er certificeret til at udføre tredjepartskontrol.
 
-## § 43
+### § 43
 
 Byggearbejder, der kræver byggetilladelse, må ikke tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse. 
 
@@ -759,7 +795,7 @@ Byggearbejder, der kræver byggetilladelse, må ikke tages i brug uden kommunalb
 
  _Stk. 5._ Nedrivningsarbejder, der kræver kommunalbestyrelsens tilladelse, jf. § 47, er ikke omfattet af stk. 1.
 
-## § 44
+### § 44
 
 Kommunalbestyrelsen kan give tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet. Kommunalbestyrelsen skal give en frist for byggeriets færdiggørelse og kan kræve sikkerhedsstillelse for færdiggørelsen. Såfremt fristen ikke overholdes, bortfalder tilladelsen til helt eller delvis brug af bebyggelsen, og byggeriet kan færdiggøres ved kommunalbestyrelsens foranstaltning for den stillede sikkerhed.
 
@@ -767,11 +803,11 @@ Kommunalbestyrelsen kan give tilladelse til, at bebyggelse kan tages helt eller 
 
  _Stk. 3._ Stk. 1 finder også anvendelse på de byggesager, hvor der efter §§ 19 og 23 er fremsendt starterklæring.  
 
-## § 45
+### § 45
 
 Ved tilladelse til ibrugtagning, der giver offentligheden adgang til en mine eller lignende anlæg, skal der foreligge en sagkyndig erklæring vedrørende undergrundens styrke- og stabilitetsforhold. Kommunalbestyrelsen kan stille krav om overvågningsforanstaltninger af minen eller lignende anlæg.
 
-## § 46
+### § 46
 
 Kommunalbestyrelsen skal i 10 pct. af de byggesager, hvortil der er meddelt ibrugtagningstilladelse, foretage stikprøvekontrol med den samlede dokumentation, der er indsendt ved færdigmelding af et byggearbejde, som dokumenterer overholdelse af bygningsreglementets krav i det færdige byggeri. Ved stikprøvekontrollen skal kommunalbestyrelsen påse, at byggeriet overholder de for byggearbejdet relevante krav i bygningsreglementet.
 
@@ -783,7 +819,10 @@ Kommunalbestyrelsen skal i 10 pct. af de byggesager, hvortil der er meddelt ibru
 
  _Stk. 5._ Byggesager vedrørende enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse samt byggesager vedrørende garager og carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er ikke omfattet af krav om stikprøvekontrol, jf. stk. 1.
 
-## § 47
+
+## § 47 Nedrivning af bebyggelse
+
+### § 47
 
 Nedrivning af bebyggelse, der kræver byggetilladelse at opføre, må ikke påbegyndes uden tilladelse fra kommunalbestyrelsen.
 
