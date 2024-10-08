@@ -2,8 +2,8 @@
 
 ## § 368 Lydforhold
 
-Bygninger skal have sundheds- og komfortmaessigt tilfredsstillende lydforhold
-i forhold til anvendelsen.
+Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold i
+forhold til anvendelsen.
 
 _Stk. 2._ Ved projektering og udførelse skal der tages hensyn til:
 
@@ -12,10 +12,8 @@ _Stk. 2._ Ved projektering og udførelse skal der tages hensyn til:
   3. Støj fra veje og jernbaner.
   4. Efterklangstid.
 
-_Stk. 3._ Dokumentation af lydforhold kan ske ved beregning eller maling i
-den faerdige bygning.
-
-
+_Stk. 3._ Dokumentation af lydforhold kan ske ved beregning eller måling i
+den færdige bygning.
 
 ## § 369 - § 373 Boliger og andre bygninger til overnatning
 
@@ -32,34 +30,33 @@ vejledning om lydforhold.
 
 ### § 370
 
-Hvis rum med støjende aktiviteter graenser op til boliger og faelles
-opholdsrum, skal saerskilte lydisolerende tiltag ivaerksaettes. Bestemmelsen
-er opfyldt, nar det kan dokumenteres, at rum med støjende aktiviteter er
-udført i henhold til klasse C i DS 490 Lydklassifikation af boliger.
+Hvis rum med støjende aktiviteter grænser op til boliger og fælles opholdsrum,
+skal særskilte lydisolerende tiltag iværksættes. Bestemmelsen er opfyldt, når
+det kan dokumenteres, at rum med støjende aktiviteter er udført i henhold til
+klasse C i DS 490 Lydklassifikation af boliger.
 
 ### § 371
 
-Tekniske installationer ma ikke medføre et generende støjniveau umiddelbart
-uden for bebyggelsens vinduer til beboelsesrum, køkken eller pa bebyggelsens
+Tekniske installationer må ikke medføre et generende støjniveau umiddelbart
+uden for bebyggelsens vinduer til beboelsesrum, køkken eller på bebyggelsens
 rekreative arealer, herunder altaner, tagterrasser, uderum og lignende.
-Bestemmelsen anses for opfyldt, nar det kan dokumenteres, at graensevaerdierne
+Bestemmelsen anses for opfyldt, når det kan dokumenteres, at grænseværdierne
 angivet i Bygningsreglementets vejledning om lydforhold er overholdt.
 
 ### § 372
 
-Rums efterklangstid skal vaere reguleret i overensstemmelse med deres
+Rums efterklangstid skal være reguleret i overensstemmelse med deres
 anvendelse.
 
-_Stk. 2._ For faellesrum er bestemmelsen opfyldt, nar det kan
-dokumenteres, at klasse C i DS 490 Lydklassifikation af boliger er
-overholdt.
+_Stk. 2._ For fællesrum er bestemmelsen opfyldt, når det kan dokumenteres,
+at klasse C i DS 490 Lydklassifikation af boliger er overholdt.
 
 
 
 ### § 373
 
-For sommerhuse gaelder alene, at de tekniske installationer skal udformes pa
-en sadan made, at de personer, der opholder sig i bygningerne, ikke generes af
+For sommerhuse gælder alene, at de tekniske installationer skal udformes på en
+sådan måde, at de personer, der opholder sig i bygningerne, ikke generes af
 lyd fra disse.
 
 ## § 374 - § 376 Andre bygninger end boliger
@@ -67,32 +64,32 @@ lyd fra disse.
 ### § 374
 
 For andre bygninger end boliger skal det under hensyn til anvendelsen sikres,
-at de  personer, som opholder sig i bygningen, ikke generes af lyd fra
-tilgraensende rum, fra bygningens installationer eller fra naerliggende veje
-og jernbaner.
+at de  personer, som opholder sig i bygningen, ikke generes af lyd fra
+tilgrænsende rum, fra bygningens installationer eller fra nærliggende veje og
+jernbaner.
 
 _Stk. 2._ For undervisnings- og daginstitutionsbyggeri er bestemmelsen
-opfyldt, nar det kan dokumenteres, at graensevaerdierne angivet i
-_Bygningsreglementets vejledning om lydforhold er overholdt, eller nar det
-pa anden vis kan dokumenteres, at et tilsvarende niveau er opnaet.
+opfyldt, når det kan dokumenteres, at grænseværdierne angivet i
+_Bygningsreglementets vejledning om lydforhold   _er overholdt, eller når det
+på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
 
 ### § 375
 
-Hvis rum med støjende aktiviteter i samme eller tilgraensende bygninger
-graenser op til undervisningsrum eller opholdsrum, skal saerskilte
-lydisolerende tiltag ivaerksaettes.
+Hvis rum med støjende aktiviteter i samme eller tilgrænsende bygninger grænser
+op til undervisningsrum eller opholdsrum, skal særskilte lydisolerende tiltag
+iværksættes.
 
 _Stk. 2._ For undervisnings- og daginstitutionsbygninger er bestemmelsen
-opfyldt, nar det kan dokumenteres, at graensevaerdierne angivet i
-_Bygningsreglementets vejledning om lydforhold_ er overholdt, eller nar det pa
-anden vis kan dokumenteres, at et tilsvarende niveau er opnaet.
+opfyldt, når det kan dokumenteres, at grænseværdierne angivet i
+_Bygningsreglementets vejledning om lydforhold_ er overholdt, eller når det på
+anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
 
 ### § 376
 
-Rums efterklangstid skal vaere reguleret i overensstemmelse med rummenes
+Rums efterklangstid skal være reguleret i overensstemmelse med rummenes
 anvendelse.
 
 Stk. 2. For undervisnings- og daginstitutionsbygninger er bestemmelsen
-opfyldt, nar det kan dokumenteres, at graensevaerdierne angivet i
-Bygningsreglementets vejledning om lydforhold er overholdt, eller nar det pa
-anden vis kan dokumenteres, at et tilsvarende niveau er opnaet.
+opfyldt, når det kan dokumenteres, at grænseværdierne angivet i
+Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på
+anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
